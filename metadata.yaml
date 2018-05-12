@@ -1,0 +1,37 @@
+_repo: The-Letters-of-Robert-Browning-and-Elizabeth-Barrett-Barrett-Vol.-1--of-2--1845-1846_16182
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Browning, Robert
+    birthdate: 1812
+    deathdate: 1889
+    gutenberg_agent_id: '146'
+    url: http://www.gutenberg.org/2009/agents/146
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Browning
+  - agent_name: Browning, Elizabeth Barrett
+    alias: Barrett-Browning, Elizabeth
+    birthdate: 1806
+    deathdate: 1861
+    gutenberg_agent_id: '781'
+    url: http://www.gutenberg.org/2009/agents/781
+    wikipedia: http://en.wikipedia.org/wiki/Elizabeth_Barrett_Browning
+description: ''
+gutenberg_issued: '2005-07-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16182'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Browning, Elizabeth Barrett, 1806-1861 -- Correspondence'
+- !lcsh 'Browning, Robert, 1812-1889 -- Correspondence'
+- !lcsh 'Poets, English -- 19th century -- Correspondence'
+title: The Letters of Robert Browning and Elizabeth Barrett Barrett, Vol. 1 (of 2)
+  1845-1846
+url: http://www.gutenberg.org/ebooks/16182
